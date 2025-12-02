@@ -18,4 +18,4 @@ with open("data.txt", "r") as fp:
             if ptr == 0:
                 password += 1
 print(password)
-# Answer: 5847
+# Solution: 5847
