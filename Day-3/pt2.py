@@ -1,5 +1,5 @@
 """
-author: @ion727
+author: ion727
 
 Advent Of Code: Day 3 (part 2)
 """

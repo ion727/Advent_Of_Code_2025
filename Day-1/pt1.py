@@ -1,5 +1,5 @@
 """
-author: @ion727
+author: ion727
 
 Advent Of Code: Day 1 (part 1)
 """
