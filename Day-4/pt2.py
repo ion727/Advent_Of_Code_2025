@@ -25,4 +25,7 @@ with open("data.txt", "r") as fp:
                     datalines[y][x] = "."
                     total += 1
                     changed = True
+#for row in datalines: # for the trippy result of removing all the
+#    print(''.join(row))
+print(total)
 # Solution: 8409
