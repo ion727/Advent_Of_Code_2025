@@ -11,7 +11,6 @@ with open("data.txt","r") as fp:
     total = 1
     for i, line in enumerate(datalines): 
         for manifold in list(manifolds.keys()):
-            print(manifold)
             if datalines[i][manifold] == "^":
                 mani = manifolds.pop(manifold)
                 left_key = manifold-1

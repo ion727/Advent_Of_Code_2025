@@ -23,6 +23,5 @@ with open("data.txt","r") as fp:
             if manifold not in manifolds:
                 manifolds.append(manifold)
         new.clear()
-
 print(total)
 # Soluton: 1592
